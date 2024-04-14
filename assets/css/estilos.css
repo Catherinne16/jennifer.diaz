@@ -43,7 +43,12 @@ body {
     border-color: #f06d0d;
   }
   
+
   .galeria {
     --bs-bg-opacity: 1;
     background-color: rgb(91 40 3) !important;
-}
+  }
+
+  .image-top{
+  min-height: 428px;
+  }
